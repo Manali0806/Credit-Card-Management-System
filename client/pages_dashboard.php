@@ -105,7 +105,7 @@ $stmt->close();
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <?php include("dist/_partials/head.php"); ?>
-<!-- Log on to alphacodecamp.com.ng for more projects! -->
+
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed">
 
   <div class="wrapper">
@@ -230,7 +230,7 @@ $stmt->close();
                     <!-- /.col -->
                   </div>
                   <!-- /.row -->
-                </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                </div>
                 <!-- ./card-body -->
                 <div class="card-footer">
                   <div class="row">
@@ -293,7 +293,7 @@ $stmt->close();
                       <i class="fas fa-times"></i>
                     </button>
                   </div>
-                </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                </div>
                 <!-- /.card-header -->
                 <div class="card-body p-0">
                   <div class="table-responsive">

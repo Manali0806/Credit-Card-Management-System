@@ -11,7 +11,7 @@ $client_id = $_SESSION['client_id'];
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <?php include("dist/_partials/head.php"); ?>
-<!-- Log on to alphacodecamp.com.ng for more projects! -->
+
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed">
   <div class="wrapper">
     <!-- Navbar -->
@@ -105,7 +105,7 @@ $client_id = $_SESSION['client_id'];
             <!-- /.card -->
           </div>
           <!-- /.col -->
-        </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+        </div>
         <!-- /.row -->
       </section>
       <!-- /.content -->

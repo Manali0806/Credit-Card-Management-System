@@ -20,7 +20,7 @@ if (isset($_GET['fireStaff'])) {
   }
 }
 ?>
-<!-- Log on to alphacodecamp.com.ng for more projects! -->
+
 <!DOCTYPE html>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />

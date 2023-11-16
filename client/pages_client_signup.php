@@ -39,7 +39,7 @@ $res = $stmt->get_result();
 while ($auth = $res->fetch_object()) {
 ?>
   <!DOCTYPE html>
-  <html><!-- Log on to alphacodecamp.com.ng for more projects! -->
+  <html>
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
   <?php include("dist/_partials/head.php"); ?>
 
@@ -105,7 +105,7 @@ while ($auth = $res->fetch_object()) {
                   <span class="fas fa-envelope"></span>
                 </div>
               </div>
-            </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+            </div>
             <div class="input-group mb-3">
               <input type="password" name="password" required class="form-control" placeholder="Password">
               <div class="input-group-append">

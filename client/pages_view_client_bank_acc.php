@@ -6,7 +6,7 @@ check_login();
 $client_id = $_SESSION['client_id'];
 
 ?>
-<!-- Log on to alphacodecamp.com.ng for more projects! -->
+
 <!DOCTYPE html>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -119,7 +119,7 @@ $client_id = $_SESSION['client_id'];
                             <!-- /.card -->
                         </div>
                         <!-- /.col -->
-                    </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                    </div>
                     <!-- /.row -->
                 </section>
                 <!-- /.content -->

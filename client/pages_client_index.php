@@ -34,7 +34,7 @@ while ($auth = $res->fetch_object()) {
     <div class="login-box">
       <div class="login-logo">
         <p><?php echo $auth->sys_name; ?></p>
-      </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+      </div>
       <!-- /.login-logo -->
       <div class="card">
         <div class="card-body login-card-body">
@@ -84,7 +84,7 @@ while ($auth = $res->fetch_object()) {
 
           <p class="mb-0">
             <a href="pages_client_signup.php" class="text-center">Register a new account</a>
-          </p><!-- Log on to alphacodecamp.com.ng for more projects! -->
+          </p>
 
         </div>
         <!-- /.login-card-body -->

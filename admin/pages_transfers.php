@@ -100,7 +100,7 @@ $admin_id = $_SESSION['admin_id'];
               <!-- /.card-body -->
             </div>
             <!-- /.card -->
-          </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+          </div>
           <!-- /.col -->
         </div>
         <!-- /.row -->

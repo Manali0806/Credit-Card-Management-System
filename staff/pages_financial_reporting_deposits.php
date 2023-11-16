@@ -11,7 +11,7 @@ $staff_id = $_SESSION['staff_id'];
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <?php include("dist/_partials/head.php"); ?>
-<!-- Log on to alphacodecamp.com.ng for more projects! -->
+
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed">
   <div class="wrapper">
     <!-- Navbar -->
@@ -62,7 +62,7 @@ $staff_id = $_SESSION['staff_id'];
 
                     </tr>
                   </thead>
-                  <tbody><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                  <tbody>
                     <?php
                     //Get latest deposits transactions 
                     $ret = "SELECT * FROM  iB_Transactions  WHERE tr_type = 'Deposit' ";
@@ -105,7 +105,7 @@ $staff_id = $_SESSION['staff_id'];
           <!-- /.col -->
         </div>
         <!-- /.row -->
-      </section><!-- Log on to alphacodecamp.com.ng for more projects! -->
+      </section>
       <!-- /.content -->
     </div>
     <!-- /.content-wrapper -->

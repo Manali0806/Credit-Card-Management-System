@@ -6,7 +6,7 @@ check_login();
 $client_id = $_SESSION['client_id'];
 
 ?>
-<!-- Log on to alphacodecamp.com.ng for more projects! -->
+
 <!DOCTYPE html>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -120,7 +120,7 @@ $client_id = $_SESSION['client_id'];
                                             </h4>
                                         </div>
                                         <!-- /.col -->
-                                    </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                                    </div>
                                     <!-- info row -->
                                     <div class="row invoice-info">
                                         <div class="col-sm-6 invoice-col">

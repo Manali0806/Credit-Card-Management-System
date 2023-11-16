@@ -93,7 +93,7 @@ while ($auth = $res->fetch_object()) {
                             </div>
                             <!-- /.col -->
                         </div>
-                    </form><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                    </form>
 
                     <p class="mt-3 mb-1">
                         <!--           <a href="pages_staff_index.php">Login</a>

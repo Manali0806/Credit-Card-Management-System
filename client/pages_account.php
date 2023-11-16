@@ -56,7 +56,7 @@ if (isset($_POST['change_client_password'])) {
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <?php include("dist/_partials/head.php"); ?>
-<!-- Log on to alphacodecamp.com.ng for more projects! -->
+
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed ">
     <div class="wrapper">
         <!-- Navbar -->
@@ -68,7 +68,7 @@ if (isset($_POST['change_client_password'])) {
 
         <!-- Content Wrapper. Contains page content -->
         <div class="content-wrapper">
-        <!-- Log on to alphacodecamp.com.ng for more projects! -->
+       
             <!-- Content Header with logged in user details (Page header) -->
             <?php
             $client_id = $_SESSION['client_id'];
@@ -121,7 +121,7 @@ if (isset($_POST['change_client_password'])) {
                 <section class="content">
                     <div class="container-fluid">
                         <div class="row">
-                        <!-- Log on to alphacodecamp.com.ng for more projects! -->
+                        
                             <div class="col-md-3">
 
                                 <!-- Profile Image -->
@@ -196,7 +196,7 @@ if (isset($_POST['change_client_password'])) {
                         <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum enim neque.</p>
                     </div>
                     </div>
-                    <!-- /.card --><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                    <!-- /.card -->
                             </div>
 
                             <!-- /.col -->
@@ -258,7 +258,7 @@ if (isset($_POST['change_client_password'])) {
                                                         </div>
                                                     </div>
                                                 </form>
-                                            </div><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                                            </div>
 
                                             <!-- /Change Password -->
                                             <div class="tab-pane" id="Change_Password">
@@ -300,7 +300,7 @@ if (isset($_POST['change_client_password'])) {
                         </div>
                         <!-- /.row -->
                     </div><!-- /.container-fluid -->
-                </section><!-- Log on to alphacodecamp.com.ng for more projects! -->
+                </section>
                 <!-- /.content -->
 
             <?php } ?>
